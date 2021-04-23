@@ -3,7 +3,7 @@ import 'package:dev_quiz/shared/models/awnser_model.dart';
 
 class QuestionModel {
   final String title;
-  final List<AnswerModel> answers;
+  final List<AwnserModel> answers;
 
   QuestionModel({required this.title, required this.answers})
       : assert(answers.length == 4);
@@ -18,8 +18,8 @@ class QuestionModel {
   factory QuestionModel.fromMap(Map<String, dynamic> map) {
     return QuestionModel(
       title: map['title'],
-      answers: List<AnswerModel>.from(
-        map['answers']?.map((x) => AnswerModel.fromMap(x)),
+      answers: List<AwnserModel>.from(
+        map['answers']?.map((x) => AwnserModel.fromMap(x)),
       ),
     );
   }

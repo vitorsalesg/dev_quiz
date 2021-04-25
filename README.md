@@ -18,7 +18,7 @@
 
 ## 💻 Sobre o projeto
 
-DevQuiz - O aplicativo DevQuiz foi criado com intuito de ajudar outros desenvolvedores a aprenderam mais sobre a tecnologia Flutter.
+DevQuiz - O aplicativo DevQuiz foi criado com intuito de ajudar outros desenvolvedores a aprenderam mais sobre a tecnologia Flutter atraves de quizzes com diversas perguntas.
 
 ---
 

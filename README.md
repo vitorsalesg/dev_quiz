@@ -31,6 +31,8 @@ DevQuiz - O aplicativo DevQuiz foi criado com intuito de ajudar outros desenvolv
 	<img alt="mobile screen" width="250" src="https://user-images.githubusercontent.com/42179077/115994912-5c388580-a5af-11eb-89a5-99010759c6f0.gif">
 </p>
 
+Obs: Imagem ilustrativa mostrando o comportamento da tela com respostas certas e incorretas.
+
 ---
 
 ## 🚀 Como executar o projeto
